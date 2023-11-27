@@ -1,10 +1,11 @@
- Hacer una miniespecifiación que permita mostrar los números pares del 0 hasta el 10
+Hacer una miniéspecificación con al menos 1 ciclo repetitivo y 1 condicional 
+Hacer una miniespecifiación que permita mostrar los números pares del 0 hasta el 4
 1) Inicio 
 2) par, i[0-n] <-- 0 
-3) Mientras par <= 10 entonces    
-4)     Si par %2 == 0 entonces  
-5)     <<par                    
+3) Mientras par <= 4 entonces    
+4)     Si par %2 == 0 entonces    
+5)     <<par                      
 6)     Fin si 
-7) par <-- par + 2                 
+7) par <-- par + 1                 
 8) Fin mientras 
 9) Fin    
